@@ -12,3 +12,11 @@ function multipleTwoNumbers($x, $y)
 }
 
 ?>
+
+function multipleTwoNumbers($x, $y)
+{
+    
+    return $x - $y;
+}
+
+?>
