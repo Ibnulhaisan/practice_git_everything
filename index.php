@@ -4,4 +4,11 @@ function addTwoNumbers($x, $y)
     
     return $x + $y;
 }
+
+function multipleTwoNumbers($x, $y)
+{
+    
+    return $x * $y;
+}
+
 ?>
